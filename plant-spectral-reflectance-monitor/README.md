@@ -1,20 +1,20 @@
-Handheld Spectral Device for Leaf Chlorophyll Estimation
+#  Handheld Spectral Device for Leaf Chlorophyll Estimation
 
 An affordable and portable spectral sensing device developed for the non-destructive estimation of leaf chlorophyll content and monitoring of plant health and stress.
 
+---
 
+## Overview
 
-Overview
-
-Crop HySense is a handheld spectral sensing system designed to measure leaf reflectance across the 350–850 nm spectral range. The device is intended to support the assessment of plant health, nutrient status, and stress conditions based on the spectral characteristics of leaves.
+Development of a handheld spectral sensing system designed to measure leaf reflectance across the 350–850 nm spectral range. The device is intended to support the assessment of plant health, nutrient status, and stress conditions based on the spectral characteristics of leaves.
 
 The system integrates the Hamamatsu C12880MA MEMS micro-spectrometer with an Arduino UNO development board, providing a compact and cost-effective alternative to conventional commercial spectroradiometric systems.
 
 ---
 
-Hardware Components
+## Hardware Components
 
-Spectral Sensor: Hamamatsu C12880MA MEMS Micro-Spectrometer
+- **Spectral Sensor:** Hamamatsu C12880MA MEMS Micro-Spectrometer
   - Spectral range: 350–850 nm
   - Spectral resolution: approximately 15 nm
   - 288-pixel photodiode array
@@ -55,7 +55,7 @@ Spectral Sensor: Hamamatsu C12880MA MEMS Micro-Spectrometer
 
 ---
 
- Future Enhancements
+## Future Enhancements
 
 - Development of a custom 3D-printed enclosure for improved portability and field deployment.
 - Integration of the PROSAIL radiative transfer model for automated chlorophyll quantification.
