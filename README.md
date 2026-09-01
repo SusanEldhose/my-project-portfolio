@@ -14,14 +14,4 @@ A collection of projects I've worked on, documented and organized in one place.
 
 This repository serves as a running record of academic, personal, and professional projects. 
 
-## How this repo is organized
 
-```
-.
-├── README.md                     ← you are here
-├── GUIDE.md                      ← step-by-step guide to set up & maintain this repo
-└── projects/
-    └── plant-phenomics-trait-extraction/
-        ├── README.md              ← project write-up
-        └── Mini_Project_Akanksha_Susan.pdf
-```
