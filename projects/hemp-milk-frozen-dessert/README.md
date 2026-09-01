@@ -49,5 +49,5 @@ Hemp milk was demonstrated to be a viable, functional base for a lactose-free, v
 * Full bibliography included in thesis (Andre et al., 2016; Beşir et al., 2019, 2022; Farinon et al., 2020; Ismail et al., 2013; Jemaa et al., 2021; Leahu et al., 2022; Sabaté & Ratzin-Turner, 2001; Sethi et al., 2016; Sunidhi et al., 2021; Wang et al., 2018)
 
 ## Files
-* `Thesis_.pdf` – full research thesis with literature review, methodology, formulation tables, sensory evaluation results, and hedonic scaling analysis
+* [`Thesis_.pdf`](./Thesis_.pdf) – full research thesis with literature review, methodology, formulation tables, sensory evaluation results, and hedonic scaling analysis
 * `Susan Eldhose_Research Presentation` – presentation with formulation details and sensory evaluation data
