@@ -57,6 +57,4 @@ Sample results are shown across multiple observation windows (e.g., Day 001–09
 
 - Ref & Credit: Plant Vision Initiative / UNL
 
-## Files
 
-- [`Mini_Project_Akanksha_Susan.pdf`](./Mini_Project_Akanksha_Susan.pdf) – full presentation slides (PDF) with pipeline diagrams and result images
